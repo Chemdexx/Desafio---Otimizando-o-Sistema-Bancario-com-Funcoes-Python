@@ -2,9 +2,9 @@
 
 ## Regras de Negócio
 ### Geral
-    Separar as funcionalidades existentes de saque, depósito e extrato em funções.
-    Criar duas novas funções: criar usuário (cliente) e criar conta corrente.
-    Cada função deve ter uma regra na passagem de argumentos.
+Separar as funcionalidades existentes de saque, depósito e extrato em funções.
+Criar duas novas funções: criar usuário (cliente) e criar conta corrente.
+Cada função deve ter uma regra na passagem de argumentos.
     
 ### Saque
     A função saque deve receber os argumentos apenas por nome (keyword only).
